@@ -9,7 +9,7 @@
 
 [GO](https://github.com/Belka9823/-my-go-app)
 
---
+[Rust](https://github.com/Belka9823/my-rust-app)
 
 [PHP с MySQL – приложение с базой данных](https://github.com/Belka9823/my-php-app)
 
