@@ -12,3 +12,6 @@
 --
 
 [PHP с MySQL – приложение с базой данных](https://github.com/Belka9823/my-php-app)
+
+
+[C++](https://github.com/Belka9823/my-cpp-app)
