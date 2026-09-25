@@ -11,4 +11,4 @@
 
 --
 
-[PHP с MySQL – приложение с базой данных](https://github.com/Belka9823/my-php-app/actions)
+[PHP с MySQL – приложение с базой данных](https://github.com/Belka9823/my-php-app)
