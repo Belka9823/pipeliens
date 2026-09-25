@@ -7,7 +7,7 @@
 
 [Node.js / TypeScript – REST API с тестами](https://github.com/Belka9823/my-node-app)
 
---
+[GO](https://github.com/Belka9823/-my-go-app)
 
 --
 
