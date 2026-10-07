@@ -22,3 +22,5 @@
 CI/CD
 
 [CI/CD на Rust CLI с публикацией в GHCR](https://github.com/Belka9823/hello-rust)
+
+[CI/CD на Go CLI с публикацией в GHCR](https://github.com/Belka9823/hello-go)
