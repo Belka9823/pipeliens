@@ -17,3 +17,8 @@
 [C++](https://github.com/Belka9823/my-cpp-app)
 
 [Hello Java!](https://github.com/Belka9823/-hello_java)
+
+
+CI/CD
+
+[CI/CD на Rust CLI с публикацией в GHCR](https://github.com/Belka9823/hello-rust)
