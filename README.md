@@ -26,3 +26,6 @@ CI/CD
 [CI/CD на Go CLI с публикацией в GHCR](https://github.com/Belka9823/hello-go)
 
 [CI/CD на Go CLI с публикацией бинарников в GitHub Releases](https://github.com/Belka9823/hello-go_second)
+
+[CI/CD Python+PyInstaller CLI с публикацией бинарников в GitHub Releases](https://github.com/Belka9823/Hello-python)
+
